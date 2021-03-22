@@ -1,4 +1,4 @@
-[![Hello world status](https://github.com/MitanshuShaBa/hello-github-actions/workflows/hello-world/badge.svg)](https://github.com/MitanshuShaBa/hello-github-actions/actions)
+[![Hello world status](https://github.com/eddiejaoude/stargate/workflows/Changelog/badge.svg)](https://github.com/MitanshuShaBa/hello-github-actions/actions)
 
 ## Welcome to "Hello World" with GitHub Actions
 
